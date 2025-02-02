@@ -126,11 +126,6 @@ docker build -t multilingual-faqs .
 ```bash
 docker run -p 5000:5000 multilingual-faqs
 ```
-### **Docker Screenshot Placeholder**
-![Docker Screenshot](./screenshots/docker.png)
-
----
-
 ## Testing
 Run unit tests using Mocha & Supertest:
 ```bash
