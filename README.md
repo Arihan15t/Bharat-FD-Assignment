@@ -147,23 +147,6 @@ describe('GET /api/faqs', () => {
 });
 ```
 
-### **Test Results Placeholder**
-![Test Results Screenshot](./screenshots/screenshots/test.png)
-
----
-
-## Screenshots & Proof of Execution
-### **Input Request Screenshot**
-![Input Request](./screenshots/input.png)
-
-### **Output Response Screenshot**
-![Output Response](./screenshots/output.png)
-
-### **Docker Running Screenshot**
-![Docker Running](./screenshots/docker.png)
-
----
-
 ## Conclusion
 This project successfully implements a **Multilingual FAQ System** using **Node.js & Express.js**, integrating **Google Translate API**, **MongoDB**, and **Docker Support**. The system handles translations dynamically and follows best practices for API development, error handling, and testing.
 
